@@ -1,0 +1,14 @@
+D:\2024\IT\Code\Notification_Channel_Parser\NotiChannelParser\bin\Debug\net8.0\NotiChannelParser.exe
+D:\2024\IT\Code\Notification_Channel_Parser\NotiChannelParser\bin\Debug\net8.0\NotiChannelParser.deps.json
+D:\2024\IT\Code\Notification_Channel_Parser\NotiChannelParser\bin\Debug\net8.0\NotiChannelParser.runtimeconfig.json
+D:\2024\IT\Code\Notification_Channel_Parser\NotiChannelParser\bin\Debug\net8.0\NotiChannelParser.dll
+D:\2024\IT\Code\Notification_Channel_Parser\NotiChannelParser\bin\Debug\net8.0\NotiChannelParser.pdb
+D:\2024\IT\Code\Notification_Channel_Parser\NotiChannelParser\obj\Debug\net8.0\NotiChannelParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\2024\IT\Code\Notification_Channel_Parser\NotiChannelParser\obj\Debug\net8.0\NotiChannelParser.AssemblyInfoInputs.cache
+D:\2024\IT\Code\Notification_Channel_Parser\NotiChannelParser\obj\Debug\net8.0\NotiChannelParser.AssemblyInfo.cs
+D:\2024\IT\Code\Notification_Channel_Parser\NotiChannelParser\obj\Debug\net8.0\NotiChannelParser.csproj.CoreCompileInputs.cache
+D:\2024\IT\Code\Notification_Channel_Parser\NotiChannelParser\obj\Debug\net8.0\NotiChannelParser.dll
+D:\2024\IT\Code\Notification_Channel_Parser\NotiChannelParser\obj\Debug\net8.0\refint\NotiChannelParser.dll
+D:\2024\IT\Code\Notification_Channel_Parser\NotiChannelParser\obj\Debug\net8.0\NotiChannelParser.pdb
+D:\2024\IT\Code\Notification_Channel_Parser\NotiChannelParser\obj\Debug\net8.0\NotiChannelParser.genruntimeconfig.cache
+D:\2024\IT\Code\Notification_Channel_Parser\NotiChannelParser\obj\Debug\net8.0\ref\NotiChannelParser.dll
